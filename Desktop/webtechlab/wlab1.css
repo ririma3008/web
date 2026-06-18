@@ -1,0 +1,79 @@
+/* Page background and font */
+body {
+    font-family: Arial;
+    margin: 30px;
+}
+
+/* Main heading */
+h1 {
+    font-size: 35px;
+}
+
+/* Paragraph */
+p {
+    font-size: 20px;
+}
+
+/* Inventory table */
+.Inventory {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.Inventory th {
+    background-color: darkslategray;
+    color: white;
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.Inventory td {
+    background-color: rgb(172, 171, 192);
+    border: 1px solid black;
+    padding: 8px;
+}
+
+
+.contact-information {
+    background-color: lightgreen;
+    width: 80%;
+    height:80px;
+
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.contact {
+    background-color: #d8f5c8;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.contact td {
+    padding: 10px;
+}
+input {
+    width: 300px;
+    height: 30px;
+}
+
+textarea {
+    width: 300px;
+    height: 60px;
+}
+
+.submit-btn {
+    width: 120px;
+    height: 40px;
+}
+   
+
+
