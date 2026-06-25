@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #cc6e6e82;
+}
+
+
+
+fieldset{
+    border: 2px solid #6855cf;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+legend{
+    background: #7b68ee;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+table{
+    width: 100%;
+   
+}
+
+label{
+    font-weight: bold;
+}
+
+ container{
+    position: relative;
+ }
+.container{
+    position: relative;
+
+}
+
+.submit-btn{
+    position: absolute;
+    left: 250px;
+    top: 20px;
+
+    width: 200px;
+    padding: 12px;
+    background: #7b68ee;
+    color: white;
+    border-radius: 5px;
+}
+.clear-btn{
+    position: absolute;
+    left: 500px;
+    top: 20px;
+    width: 200px;
+    padding: 12px;
+    background: #dce8c8;
+    color: black;
+    border-radius: 5px;
+}
